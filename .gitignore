@@ -22,5 +22,6 @@ yarn-error.log*
 
 # IDE/Editor data
 .idea
+.idea/workspace.xml
 package-lock.json
 dist/
